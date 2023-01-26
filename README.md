@@ -14,7 +14,7 @@ The objective of the game is to rack up the highest score possible by avoiding t
  Players can see their current score as well as the best score they have achieved.
 
  ## Features
- * Fast-paced action gameplay
+ * Fast-paced action game
  * Score tracking and best score saved
  * Background music can be muted
  * Try again feature
