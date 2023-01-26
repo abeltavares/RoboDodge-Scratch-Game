@@ -21,7 +21,7 @@ The objective of the game is to rack up the highest score possible by avoiding t
  *Easy to pick up and play, but challenging to master
 
  ## License
- This game is released under the MIT License.
+ This game is released under the [MIT License](https://opensource.org/licenses/MIT).
  
  
  
