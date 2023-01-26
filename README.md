@@ -24,8 +24,6 @@ The objective of the game is to rack up the highest score possible by avoiding t
  This game is released under the [MIT License](https://opensource.org/licenses/MIT).
  
  
- 
-Overall, RoboDodge is a thrilling and challenging game that will keep players on the edge of their seats, testing their reflexes and quick thinking skills.
 
 Have fun and good luck in the game!
 
