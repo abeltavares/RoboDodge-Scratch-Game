@@ -1,3 +1,6 @@
+[![Build Status](https://img.shields.io/badge/build-success-brightgreen)](https://example.com)
+[![Scratch compatibility](https://img.shields.io/badge/Scratch-3.0-green)](https://scratch.mit.edu)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 # RoboDodge
 Welcome to RoboDodge, a fast-paced action game where players control a robot and must navigate through an endless stream of balls while trying to survive for as long as possible.
 
